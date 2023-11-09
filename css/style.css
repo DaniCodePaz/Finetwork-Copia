@@ -114,6 +114,10 @@ a {
     border: 1px solid #000000;
 }
 
+::placeholder {
+    color: #afa8a8;
+}
+
 .legend {
     font-size: 12px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
